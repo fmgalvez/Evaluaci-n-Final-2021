@@ -6,9 +6,14 @@ Así que aca va la lista de los temas que mas me gustaron :yellow_heart: :
 
 ## Listado de temas
 1. Sitemas de Información
+- Es base para poder comprender lo que ibamos a ver el resto de la clase
 2. Introduccion a Git
+-Realmente nos enseñaron que era git
+-Su funcionamiento y el como loibamos a utilizar
 3. Gestión y ciclo de la vida del software
+- El como funciona realmente el software y todo lo que conlleva
 4. Infraestructura y seguridad
+-Fue una clase muy interesante ya que me quiero dedicar a eso 
 ```
 git status
 git add
